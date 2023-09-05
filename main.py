@@ -1,2 +1,10 @@
 print("HELLO WORLD")
-print("My name is Ankita Beck")
+print(8)
+
+name = "Ankita"
+surname = "Beck"
+age = 24
+
+print(name)
+print(surname)
+print(age)
