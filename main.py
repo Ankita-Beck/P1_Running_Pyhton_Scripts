@@ -3,7 +3,7 @@ print(8)
 
 name = "Ankita"
 surname = "Beck"
-age = 24
+age = 22
 
 print(name)
 print(surname)
